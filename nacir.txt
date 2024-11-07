@@ -1,2 +1,6 @@
 Hello Nacir
+<<<<<<< HEAD
 Hello Nacir 2
+=======
+helllllllllo everyone
+>>>>>>> e5b50ee278dfc72c85234dcadfb223d6d0ec04c2
